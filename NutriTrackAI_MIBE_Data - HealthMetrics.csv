@@ -1,0 +1,4 @@
+EntryID,UserID,Date,Weight,FastingGlucose,Systolic_BP,Diastolic_BP,ActivityLevel,Notes
+H001,U001,2024-12-15,62,92,118,78,Medium,Feeling good
+H002,U002,2024-12-16,88,118,145,92,Low,Needs activity
+H003,U003,2024-12-16,45,88,110,70,High,Active lifestyle

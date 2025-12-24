@@ -1,0 +1,5 @@
+MealID,UserID,Date,MealName,FoodItem,Portion,Calories,Protein,Carbs,Fat
+M001,U001,2024-12-15,Breakfast,Oats,1 bowl,250,8,40,5
+M002,U001,2024-12-15,Lunch,Rice & Dal,1 plate,450,12,65,8
+M003,U002,2024-12-16,Dinner,Grilled Chicken ,150 g,400,35,10,12
+M004,U003,2024-12-16,Breakfast,Fruit Bowl,1 bowl,200,3,45,2

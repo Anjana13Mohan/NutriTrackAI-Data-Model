@@ -1,0 +1,4 @@
+UserID,Name,Email,Date of Birth,Status,SignupDate,Gender,Height_cm
+U001,Anju,anju@dummy.com,1995-06-15,Active,2024-12-01,Female,165
+U002,Arya,arya@dummy.com,1988-11-22,Active,2024-12-05,Male,175
+U003,Priyanka,priyanka@dummy.com,2002-03-10,Trial,2024-12-10,Female,160
